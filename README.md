@@ -6,7 +6,11 @@
 
 <p align="center">
   <strong>AI 驱动的智能办公文档编辑器</strong><br>
-  把 Cursor 级别的“对话式编辑 + 工具调用 + 可审阅变更”带进 Word / Excel / PowerPoint
+  把 Cursor 级别的"对话式编辑 + 工具调用 + 可审阅变更"带进 Word / Excel / PowerPoint
+</p>
+
+<p align="center">
+  📮 <strong>如遇部署问题，欢迎咨询 QQ：2935076541</strong>
 </p>
 
 <p align="center">
@@ -40,7 +44,37 @@
 - **把“上下文”从聊天窗口拉回到真实文件系统**：以工作区为中心，AI 可以理解你打开的文件夹、文件树、当前文档内容与结构。
 - **把搜索与生成能力内置到桌面端**：联网搜索、PPT 生图/编辑等能力在 Electron 桌面应用中直接可用，形成端到端生产力闭环。
 
-一句话：**Word-Cursor = Cursor 的“可审阅 AI 工作流” + Office 的“文档生产场景”**。
+一句话：**Word-Cursor = Cursor 的"可审阅 AI 工作流" + Office 的"文档生产场景"**。
+
+---
+
+## 📸 项目截图
+
+### 主界面
+![主界面](./assets/主界面1.png)
+
+### Word 文档编辑
+![Word界面](./assets/word界面.png)
+
+### Excel 表格预览
+![Excel界面](./assets/excel界面.png)
+
+### PPT 演示文稿
+![PPT界面](./assets/ppt界面.png)
+
+### PPT 作品展示
+
+<p align="center">
+  <img src="./assets/ppt作品展示1.png" width="80%" alt="PPT作品展示1">
+</p>
+
+<p align="center">
+  <img src="./assets/ppt作品展示2.png" width="80%" alt="PPT作品展示2">
+</p>
+
+<p align="center">
+  <img src="./assets/ppt作品展示3.png" width="80%" alt="PPT作品展示3">
+</p>
 
 ---
 
